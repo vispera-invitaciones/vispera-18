@@ -1,6 +1,6 @@
 // DATOS EDITABLES. Fecha y fin con zona argentina (-03:00).
 const INVITACION={
- nombre:'Banja',edad:18,fecha:'2027-11-13T21:30:00-03:00',fin:'2027-11-14T05:00:00-03:00',
+ nombre:'Benja',edad:18,fecha:'2027-11-13T21:30:00-03:00',fin:'2027-11-14T05:00:00-03:00',
  salon:'Distrito Club',direccion:'Buenos Aires, Argentina',
  confirmarAntes:'Confirmá antes del 1 de noviembre. Quiero contar con vos.',
  vestimenta:'Urban night',notaVestimenta:'Negro, blanco o un toque de color. Vení con tu mejor look y listo para la pista.',
